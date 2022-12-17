@@ -1,0 +1,8 @@
+-> Maior exploracao de dados (tipo: histograma de genero para smoking e com hue = ao target)
+-> Detecao de outliers com z-score
+	- remover os outliers a partir de z = 3
+	- arranjar os outros
+-> normalizacao dos dados continuos
+-> Binning da pressao arterial
+-> feature selection
+-> arranjar os outliers do peso e altura em funcao do genero
