@@ -1,0 +1,3 @@
+afected roads -> remover duplicados e analizar
+              -> fazer one hot encoded com o numero de roads afetadas
+record_date   -> retirar o mes (estação do ano)
